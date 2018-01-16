@@ -6,7 +6,7 @@ publish_date: '29-03-2016 00:00'
 metadata:
     author: admin-2
 slug: license
-visible: true
+visible: false
 summary:
     enabled: true
     format: short
