@@ -1,22 +1,18 @@
 ---
 title: License
-slug: license
-date: 29-03-2016
 published: true
-publish_date: 29-03-2016
+date: '29-03-2016 00:00'
+publish_date: '29-03-2016 00:00'
+metadata:
+    author: admin-2
+slug: license
 visible: true
 summary:
     enabled: true
     format: short
     size: 128
-taxonomy:
-    migration-status: review
-    category: {  }
-    tag: {  }
 author:
     name: admin-2
-metadata:
-    author: admin-2
 ---
 
 **The Software**  
