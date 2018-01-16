@@ -26,7 +26,7 @@ OpSim is still under active development and no stable release has yet been rele
 <i class="fa fa-apple fa-2x"></i>
 <i class="fa fa-file-archive-o fa-2x"></i>
 
-OpSim is [Free & Open Source Software](http://opsim.cc/license/).
+OpSim is [Free & Open Source Software](./license/).
 
 ## OpSim release 0.01
 
