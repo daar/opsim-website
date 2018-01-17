@@ -1,5 +1,10 @@
 ---
 title: About
+content:
+    items: '@self.modular'
+    order:
+        by: date
+        dir: desc
 published: true
 date: '29-03-2016 00:00'
 publish_date: '29-03-2016 00:00'
