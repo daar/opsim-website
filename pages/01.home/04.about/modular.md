@@ -1,22 +1,18 @@
 ---
 title: About
-slug: about
-date: 29-03-2016
 published: true
-publish_date: 29-03-2016
+date: '29-03-2016 00:00'
+publish_date: '29-03-2016 00:00'
+metadata:
+    author: admin-2
+slug: about
 visible: true
 summary:
     enabled: true
     format: short
     size: 128
-taxonomy:
-    migration-status: review
-    category: {  }
-    tag: {  }
 author:
     name: admin-2
-metadata:
-    author: admin-2
 ---
 
 OpSim is an open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
