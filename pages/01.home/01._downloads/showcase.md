@@ -8,6 +8,6 @@ buttons:
 image_align: bottom
 ---
 
+![](website-image.png)
 # Design your process
 ## Open source process simulator
-![](website-image.png)
