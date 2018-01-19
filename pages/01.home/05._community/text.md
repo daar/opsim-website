@@ -10,7 +10,7 @@ OpSim is an open source project hosted on GitHub, made possible by a groeing com
 
 | <i class="fa fa-github fa-2x"></i> | ![Forum](flarum.png) | <i class="fa fa-newspaper-o fa-2x" aria-hidden="true"></i> |  <i class="fa fa-file-text fa-2x" aria-hidden="true"></i> | 
 |---|---|---|----|
-| <a href="https://github.com/daar/pmake">GitHub</a> | Forum  | Blog | <a href="./documentation">Documentation</a> |
+| <a href="https://github.com/daar/pmake">GitHub</a> | Forum  | <a href="./blog">Blog</a> | <a href="./documentation">Documentation</a> |
 
 You can now support the community and keep development going strong by becoming a backer or a sponsor. The funds are used to keep the website up and running, and allows coders from the community to work on support issues or on sustained development.
 
