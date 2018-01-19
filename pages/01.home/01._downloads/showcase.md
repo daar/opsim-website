@@ -3,7 +3,7 @@ title: Downloads
 buttons:
     -
         text: 'Download OpSim'
-        url: ./download
+        url: 'https://github.com/daar/opsim/releases'
         primary: false
 image_align: bottom
 ---
