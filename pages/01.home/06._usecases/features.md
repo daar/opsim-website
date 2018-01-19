@@ -3,7 +3,7 @@ title: 'Use cases'
 image_align: left
 ---
 
-# There are no limits with what you can achieve with OpSim
+# No limits what you can achieve
 
 Simulations of physical properties of pure components and mixtures
 
