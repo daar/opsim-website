@@ -28,3 +28,4 @@ features:
 image_align: left
 ---
 
+# A pack of features
