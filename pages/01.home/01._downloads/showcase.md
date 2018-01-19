@@ -10,3 +10,4 @@ image_align: bottom
 
 # Design your process
 ## Open source process simulator
+![](website-image.png)
