@@ -6,7 +6,7 @@ image_align: right
 
 ## Driven by it's community
 
-OpSim is an open source project hosted on GitHub, made possible by a groeing community of dedicated developers and users. The OpSim community contributes and shares their knowledge and experiences on our GitHub repository and forums.
+OpSim is an open source project hosted on GitHub, made possible by a growing community of dedicated developers and users. The OpSim community contributes and shares their knowledge and experiences on our GitHub repository and forums.
 
 | <i class="fa fa-github fa-2x"></i> | ![Forum](flarum.png) | <i class="fa fa-newspaper-o fa-2x" aria-hidden="true"></i> |  <i class="fa fa-file-text fa-2x" aria-hidden="true"></i> | 
 |---|---|---|----|
