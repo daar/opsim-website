@@ -7,58 +7,7 @@ image_align: right
 # Driven by it's community
 
 OpSim is an open source project hosted on GitHub, made possible by a growing community of dedicated developers and users. The OpSim community contributes and shares their knowledge and experiences on our GitHub repository and forums.
-
-<div class="container">
-        <div class="padding bigger revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="200">
-            <h1>Why Choose Grav?</h1>
-
-            <div id="cms-critic">
-                <div class="container">
-                    <div class="row">
-                        <div class="col right">
-                            <p>Grav is an award winning CMS platform</p>
-                        </div>
-                        <div class="col image">
-                            <a href="/blog/cms-critic-award-2016"><img src="https://getgrav-grav.netdna-ssl.com/user/themes/planetoid/images/best-open-source-cms.png"></a>
-                        </div>
-                        <div class="col left">
-                            <p>Voted <a href="/blog/cms-critic-award-2016">"Best Open Source CMS"</a> in 2016</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div>
-                    <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
-                <div class="block blue">
-                    <div>
-                        <img src="https://getgrav-grav.netdna-ssl.com/user/themes/planetoid/images/fast.svg">
-                        <span>Fast</span>
-                    </div>
-                </div>
-                <p>Performance is not just an afterthought, we baked it in from the start</p>
-            </div>
-                    <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="900">
-                <div class="block green">
-                    <div>
-                        <img src="https://getgrav-grav.netdna-ssl.com/user/themes/planetoid/images/lego.svg">
-                        <span>Extensible</span>
-                    </div>
-                </div>
-                <p>Grav has a powerful API and sophisticated Package Manager to make it super flexible</p>
-            </div>
-                    <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="1300">
-                <div class="block purple">
-                    <div>
-                        <img src="https://getgrav-grav.netdna-ssl.com/user/themes/planetoid/images/github.svg">
-                        <span>Open Source</span>
-                    </div>
-                </div>
-                <p>Grav is Open Source, and all the code is available on <a href="http://github.com">GitHub.com</a></p>
-            </div>
-                </div>
-    </div>
-    
+   
 | <i class="fa fa-github fa-2x"></i> | ![Forum](flarum.png) | <i class="fa fa-newspaper-o fa-2x" aria-hidden="true"></i> |  <i class="fa fa-file-text fa-2x" aria-hidden="true"></i> | 
 |---|---|---|----|
 | <a href="https://github.com/daar/pmake">GitHub</a> | Forum  | <a href="./blog">Blog</a> | <a href="./documentation">Documentation</a> |
