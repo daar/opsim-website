@@ -2,13 +2,17 @@
 title: 'Use cases2'
 ---
 
-# No limits what you can achieve
-
-# Shop Geek Stuff
-## We have all your **geek** needs covered..
+# Physical properties
+## Simulations of physical properties of pure components and mixtures
 ___
-# SnipCart Powered
-## **Grav** plus **SnipCart** equals easy shopping
+# Numerical solver
+## Simulation of equipment performance
 ___
-# A Huge Variety
-## A great selection of **bits** and **bobs**
+# Scriptable
+## Simulation of reactions
+___
+# Mass and energy balances
+## A great way to make closed energy and mass balances
+___
+# Process and report data
+## Export to spreadsheet applications like Open Office and MS Excel
