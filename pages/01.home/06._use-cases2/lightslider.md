@@ -1,5 +1,5 @@
 ---
-title: 'Use cases2'
+title: 'Use cases'
 ---
 
 # Physical properties
