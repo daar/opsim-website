@@ -1,5 +1,6 @@
 ---
 title: Community2
+media_order: flarum.png
 ---
 
 # Driven by it's community
