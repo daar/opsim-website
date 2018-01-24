@@ -16,7 +16,7 @@ OpSim is an open source project hosted on GitHub, made possible by a growing com
       <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
          <div class="block opsim_red">
             <div>
-               <img src="github.svg"">
+               <img src="./github.svg"">
                <span>Open Source</span>
             </div>
          </div>
