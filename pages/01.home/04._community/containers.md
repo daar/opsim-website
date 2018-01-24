@@ -47,7 +47,7 @@ OpSim is an open source project hosted on GitHub, made possible by a growing com
    </div>
 </div>
 
-You can support the OpSim community and keep development going strong by becoming a patron of the project. The funds are used to keep the website up and running, and allows coders from the community to work on support issues or on sustained development.
+You can support the OpSim community and keep development going strong by becoming a [patron](https://www.patreon.com/bePatron?u=9431000&redirect_uri=http%3A%2F%2Fopsim.cc%2Fgrav%2F&utm_medium=widget) of the project. The funds are used to keep the website up and running, and allows coders from the community to work on support issues or on sustained development.
 
 <center>
 <a href="https://www.patreon.com/bePatron?u=9431000" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
