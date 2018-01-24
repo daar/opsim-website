@@ -11,46 +11,46 @@ OpSim is an open source project hosted on GitHub, made possible by a growing com
 |---|---|---|----|
 | <a href="https://github.com/daar/pmake">GitHub</a> | Forum  | <a href="./blog">Blog</a> | <a href="./documentation">Documentation</a> |
 
-           <div class="container">
-               <div>
-                  <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
-                     <div class="block opsim_red">
-                        <div>
-                           <img src="./Grav - A Modern Flat-File CMS _ Grav_files/github.svg"">
-                           <span>Open Source</span>
-                        </div>
-                     </div>
-                     <p>Collaboration and development is managed on <a href="https://github.com/daar/pmake">GitHub.com</a></p>
-                  </div>
-                  <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="900">
-                     <div class="block opsim_blue">
-                        <div>
-                           <img src="./Grav - A Modern Flat-File CMS _ Grav_files/lego.svg">
-                           <span>Support</span>
-                        </div>
-                     </div>
-                     <p>Support and feature requests are  discussed on the <a href="http://forum.opsim.cc">forum</a></p>
-                  </div>
-                  <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="1300">
-                     <div class="block opsim_orange">
-                        <div>
-                           <img src="./Grav - A Modern Flat-File CMS _ Grav_files/github.svg">
-                           <span>News</span>
-                        </div>
-                     </div>
-                     <p>Stay up to date on important facts regarding OpSim. Check the <a href="./blog">blog</a> for news!</p>
-                  </div>
-                  <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
-                     <div class="block opsim_purple">
-                        <div>
-                           <img src="./Grav - A Modern Flat-File CMS _ Grav_files/fast.svg">
-                           <span>Documentation</span>
-                        </div>
-                     </div>
-                     <p>OpSim is well <a href="./documentation">documented</a> from the start.</p>
-                  </div>
-               </div>
+<div class="container">
+   <div>
+      <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
+         <div class="block opsim_red">
+            <div>
+               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/github.svg"">
+               <span>Open Source</span>
             </div>
+         </div>
+         <p>Collaboration and development is managed on <a href="https://github.com/daar/pmake">GitHub.com</a></p>
+      </div>
+      <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="900">
+         <div class="block opsim_blue">
+            <div>
+               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/lego.svg">
+               <span>Support</span>
+            </div>
+         </div>
+         <p>Support and feature requests are  discussed on the <a href="http://forum.opsim.cc">forum</a></p>
+      </div>
+      <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="1300">
+         <div class="block opsim_orange">
+            <div>
+               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/github.svg">
+               <span>News</span>
+            </div>
+         </div>
+         <p>Stay up to date on important facts regarding OpSim. Check the <a href="./blog">blog</a> for news!</p>
+      </div>
+      <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
+         <div class="block opsim_purple">
+            <div>
+               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/fast.svg">
+               <span>Documentation</span>
+            </div>
+         </div>
+         <p>OpSim is well <a href="./documentation">documented</a> from the start.</p>
+      </div>
+   </div>
+</div>
 
 You can support the OpSim community and keep development going strong by becoming a patron of the project. The funds are used to keep the website up and running, and allows coders from the community to work on support issues or on sustained development.
 
