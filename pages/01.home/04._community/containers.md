@@ -1,6 +1,6 @@
 ---
 title: Community
-media_order: flarum.png
+media_order: 'flarum.png,fast.svg,github.svg,lego.svg'
 ---
 
 # Driven by it's community
@@ -16,7 +16,7 @@ OpSim is an open source project hosted on GitHub, made possible by a growing com
       <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
          <div class="block opsim_red">
             <div>
-               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/github.svg"">
+               <img src="github.svg"">
                <span>Open Source</span>
             </div>
          </div>
@@ -25,7 +25,7 @@ OpSim is an open source project hosted on GitHub, made possible by a growing com
       <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="900">
          <div class="block opsim_blue">
             <div>
-               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/lego.svg">
+               <img src="lego.svg">
                <span>Support</span>
             </div>
          </div>
@@ -34,7 +34,7 @@ OpSim is an open source project hosted on GitHub, made possible by a growing com
       <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="1300">
          <div class="block opsim_orange">
             <div>
-               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/github.svg">
+               <img src="github.svg">
                <span>News</span>
             </div>
          </div>
@@ -43,7 +43,7 @@ OpSim is an open source project hosted on GitHub, made possible by a growing com
       <div class="col revealOnScroll animated fadeIn" data-animation="fadeIn" data-timeout="500">
          <div class="block opsim_purple">
             <div>
-               <img src="./Grav - A Modern Flat-File CMS _ Grav_files/fast.svg">
+               <img src="fast.svg">
                <span>Documentation</span>
             </div>
          </div>
