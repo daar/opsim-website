@@ -1,6 +1,5 @@
 ---
 title: Community
-media_order: 'flarum.png,fast.svg,github.svg,lego.svg'
 ---
 
 # Driven by it's community
