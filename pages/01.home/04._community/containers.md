@@ -1,5 +1,5 @@
 ---
-title: Community2
+title: Community
 media_order: flarum.png
 ---
 
