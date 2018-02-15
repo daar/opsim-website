@@ -2,7 +2,7 @@
 title: Downloads
 buttons:
     -
-        text: 'Download OpSim'
+        text: '<i class="fa fa-download"></i> Download OpSim'
         url: 'https://github.com/daar/opsim/releases'
         primary: false
 image_align: bottom
