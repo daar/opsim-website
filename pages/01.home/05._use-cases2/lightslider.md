@@ -1,5 +1,6 @@
 ---
 title: 'Use cases'
+media_order: 'physical_properties.jpg,numerical_solver.jpg,scriptable.jpg,mass_energy_balance.jpg'
 ---
 
 # Physical properties
