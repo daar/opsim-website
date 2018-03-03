@@ -10,10 +10,10 @@ ___
 ## Simulation of equipment performance
 ___
 # Scriptable
-## Simulation of reactions
+## Script and adjust every aspect of OpSim
 ___
 # Mass and energy balances
 ## A great way to make closed energy and mass balances
 ___
 # Process and report data
-## Export to spreadsheet applications like Open Office and MS Excel
+## Export to applications like Open Office and MS Excel
